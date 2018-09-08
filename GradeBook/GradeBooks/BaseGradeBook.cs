@@ -201,7 +201,7 @@ namespace GradeBook.GradeBooks
             {
                 Console.WriteLine(grade);
             }
-        }
+        }	
 
         public virtual char GetLetterGrade(double averageGrade)
         {
